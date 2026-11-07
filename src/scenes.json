@@ -1,0 +1,50 @@
+[
+ {
+  "id": 0,
+  "keyword": "DOPAMINE",
+  "text": "What is dopamine?",
+  "frames": 72
+ },
+ {
+  "id": 1,
+  "keyword": "MESSENGER",
+  "text": "Dopamine is a chemical messenger in your brain, called a neurotransmitter.",
+  "frames": 149
+ },
+ {
+  "id": 2,
+  "keyword": "NOT JUST PLEASURE",
+  "text": "It is often called the pleasure chemical, but that is not the full story.",
+  "frames": 130
+ },
+ {
+  "id": 3,
+  "keyword": "WANTING",
+  "text": "Dopamine is mostly about wanting and motivation. It pushes you to go after a reward.",
+  "frames": 185
+ },
+ {
+  "id": 4,
+  "keyword": "ANTICIPATION",
+  "text": "It spikes when you expect something good, like a notification, a snack, or a win.",
+  "frames": 177
+ },
+ {
+  "id": 5,
+  "keyword": "THE LOOP",
+  "text": "That is why scrolling and games are so hard to stop. Your brain keeps chasing the next reward.",
+  "frames": 180
+ },
+ {
+  "id": 6,
+  "keyword": "BIGGER ROLE",
+  "text": "Dopamine also helps with focus, learning, and movement. Low levels in some brain areas are linked to Parkinson's disease.",
+  "frames": 242
+ },
+ {
+  "id": 7,
+  "keyword": "HEALTHY BOOST",
+  "text": "You can support healthy dopamine with good sleep, exercise, sunlight, and small goals you actually finish.",
+  "frames": 213
+ }
+]
